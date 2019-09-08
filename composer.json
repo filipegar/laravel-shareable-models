@@ -3,11 +3,11 @@
     "description": "Create shareable links from your eloquent models.",
     "type": "library",
     "require": {
-        "php": "^5.6|^7.0",
-        "illuminate/http": "^5.4",
-        "illuminate/database": "^5.4",
-        "illuminate/support": "^5.4",
-        "ramsey/uuid": "^3.6"
+        "php": "^7.1",
+        "illuminate/http": "^6.0",
+        "illuminate/database": "^6.0",
+        "illuminate/support": "^6.0",
+        "ramsey/uuid": "^3.8"
     },
     "require-dev": {
         "doctrine/dbal": "^2.5",
